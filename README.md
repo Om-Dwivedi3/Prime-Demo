@@ -1,2 +1,2 @@
 # Prime-Demo
-This is a demo for Git &amp; Git-hub
+This is a demo for Git &amp; Git-hub.
